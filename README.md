@@ -37,7 +37,7 @@ Ensure the following dependencies are installed:
 The code was primarily developed for Linux Ubuntu.
 
 ### Screenshots
-![Screenshot 1](https://github.com/Abdoul54/3d-maze-game/blob/main/screenshots/Screenshot-1.png)
+![Screenshot 1](./screenshots/Screenshot-1.png)
 ![Screenshot 2](https://github.com/Abdoul54/3d-maze-game/blob/main/screenshots/Screenshot-2.png)
 ![Screenshot 3](https://github.com/Abdoul54/3d-maze-game/blob/main/screenshots/Screenshot-3.png)
 
