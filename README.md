@@ -34,15 +34,12 @@ Ensure the following dependencies are installed:
 - [glm](https://github.com/g-truc/glm)
 
 ### Platform Note
-The code was primarily developed for Linux, and there might be compatibility issues on Windows or MacOS. If you find a solution for these platforms, consider forking the project and sharing the adjustments.
+The code was primarily developed for Linux Ubuntu.
 
 ### Screenshots
-![Screenshot 1](https://github.com/JLi69/3d-maze-game/blob/main/screenshots/Maze-1.png)
-![Screenshot 2](https://github.com/JLi69/3d-maze-game/blob/main/screenshots/Maze-2.png)
-![Screenshot 3](https://github.com/JLi69/3d-maze-game/blob/main/screenshots/Maze-3.png)
+![Screenshot 1](https://github.com/JLi69/3d-maze-game/blob/main/screenshots/Screenshot-1.png)
+![Screenshot 2](https://github.com/JLi69/3d-maze-game/blob/main/screenshots/Screenshot-2.png)
+![Screenshot 3](https://github.com/JLi69/3d-maze-game/blob/main/screenshots/Screenshot-3.png)
 
-### Videos
-- [Gameplay Video](https://www.youtube.com/watch?v=eIESb0ElVV8)
-- [Code Explanation](https://www.youtube.com/watch?v=w4pB5CD2FDo)
 
 Feel free to contribute, report issues, or enhance the game as part of the ALX Maze Project!
